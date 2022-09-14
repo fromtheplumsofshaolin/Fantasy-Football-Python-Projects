@@ -1,0 +1,10 @@
+starting_qb = 'Jalen Hurts'
+
+starting_rb = 'Miles Sanders'
+
+starting_eagles_qb = 'Jalen Hurts'
+starting_eagles_rb = 'Miles Sanders'
+
+
+f'{starting_eagles_qb} to {starting_eagles_rb} for the touchdown'
+Out[82]: 'Jalen Hurts to Miles Sanders for the touchdown'
